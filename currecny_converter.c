@@ -1,3 +1,8 @@
+/*
+     Name: Bahar Khan
+     Roll:  10
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
